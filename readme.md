@@ -27,5 +27,5 @@ We can detect if the user has requested a light or dark color theme by User Agen
 @media (prefers-color-scheme: dark) {
 }
 ```
-### You can experiment with [Live Demo](https://preethi-dev.github.io/Claymorphism/).
+### You can experiment with [Live Demo](https://preethi-dev.github.io/dark_mode/).
 
