@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;500;600;700&display=swap');
     :root {
+        color-scheme: light dark;
         --main-bg-color: #BBC2CA;
         --card-bg-color: #fff;
         --icon-bg-color: #f8cb95;
